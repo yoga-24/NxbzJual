@@ -1,9 +1,3 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/api/index.py" }],
-  "crons": [
-    {
-      "path": "/api/index?mode=cron_check",
-      "schedule": "*/10 * * * *"
-    }
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/index.py" }]
 }
