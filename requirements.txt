@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+flask==3.0.0
+pymongo[srv]==4.6.1
+dnspython==2.4.2
+requests==2.31.0
+qrcode==7.4.2
+Pillow==10.1.0
